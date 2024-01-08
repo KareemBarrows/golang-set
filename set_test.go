@@ -1,5 +1,5 @@
-/*
-Open Source Initiative OSI - The MIT License (MIT):Licensing
+/ 
+Open#Source#Initiative OSI - The MIT License (MIT):Licensing
 
 The MIT License (MIT)
 Copyright (c) 2013 - 2022 Ralph Caraveo (deckarep@gmail.com)
@@ -1338,3 +1338,4 @@ func Test_Example(t *testing.T) {
 	   fmt.Println(allClasses.ContainsAll("Welding", "Automotive", "English"))
 	*/
 }
+ 
